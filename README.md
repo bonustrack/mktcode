@@ -14,7 +14,7 @@ For now I will just let the tax payer unknowingly pay for the Open Source work I
 
 > #### *„We have developed speed, but we have shut ourselves in. We think too much and feel to little.”* - [Charlie Chaplin](https://www.youtube.com/watch?v=J7GY1Xg6X20)
 
-I am now working on something that I enjoy and am excited about and that might also be useful for others. I call it [Crypto Workflows](https://crypto-workflows.github.io), because it's about integrating crypto payments directly into CI/CD workflows.
+### I am now working on something that I enjoy and am excited about and that might also be useful for others. I call it [Crypto Workflows](https://crypto-workflows.github.io), because it's about integrating crypto payments directly into CI/CD workflows.
 
-**If you want to support me, and I don't necessarily mean the code I write but really me as a person, here is my Ethereum address:
-0x27711f9c07230632F2EE1A21a967a9AC4729E520**
+If you want to support me, and I don't necessarily mean the code I write but really me as a person, here is my Ethereum address:
+**0x27711f9c07230632F2EE1A21a967a9AC4729E520**
