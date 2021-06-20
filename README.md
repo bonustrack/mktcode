@@ -2,7 +2,7 @@
 
 [![Mktcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mktcode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-**Disclaimer: I'm a creative person who sometimes just enjoys writing. What you are about to read is just a snapshot in time. I do not actually know who I am and what to believe.**
+**Disclaimer: I'm a creative person who sometimes just enjoys writing. What you are about to read is just a snapshot in time. I do not actually know who I am and what to believe and expression is always a very lossy form of compression.**
 
 I've been a software developer for 15 years now. I have worked as a freelancer and in different companies. I have always been able to choose my job and I can't remember ever being turned down after an interview. I am quite an all-rounder and I am always pretty good at everything I do. I learn quickly if I really want to, because I have a superpower. It's called enthusiasm! I hope that didn't sound too arrogrant but what I want to say is, you can become good at everything as long as you are enthusiastic about it. Actually, by now I should be relatively settled in life and financially independent. But my superpower is accompanied by a curse. I love to be creative. And I die when I have to surpress it. I've never worked in the same job for more than a year or two, sometimes only a few months. It just bores me. I can't work according to a certain routine and certainly not on somebody else's ideas, in a team with others, especially not when I realize they are just playing roles and do whatever the boss or some social convention tells them to do.
 
