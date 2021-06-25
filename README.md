@@ -7,3 +7,5 @@ I've been a software developer for 15 years now. I have worked as a freelancer a
 ### Support me:
 **Bitcoin:** bc1q77ne4gwhrvkuu640azf83a6eqr74dc7mzvfpup<br>
 **Ethereum:** 0x27711f9c07230632F2EE1A21a967a9AC4729E520
+
+I also have a [Discord Server](https://discord.gg/vnGDEg9Ydv) where we can chat. You can still be the first visitor! :D
