@@ -14,7 +14,7 @@ I've been a software developer for 15 years now. I have worked as a freelancer a
 ## Support me:
 
 | Bitcoin | Ethereum |
-| ------- | -------- |
+| :-----: | :------: |
 | ![bc1q77ne4gwhrvkuu640azf83a6eqr74dc7mzvfpup](img/bitcoin-address.png) | ![0x27711f9c07230632F2EE1A21a967a9AC4729E520](img/ethereum-address.png) |
 | bc1q77ne4gwhrvkuu640azf83a6eqr74dc7mzvfpup | 0x27711f9c07230632F2EE1A21a967a9AC4729E520 |
 
