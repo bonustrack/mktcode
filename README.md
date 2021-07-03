@@ -6,10 +6,10 @@ I've been a software developer for 15 years now. I have worked as a freelancer a
 
 ## Projects
 
-| Fun | More Serious |
-| --- | ----------------- |
-| [![OpenQ](https://github-readme-stats.vercel.app/api/pin/?username=openqdev&repo=app&show_owner=true)](https://github.com/openqdev) | [![The Magic Frog](https://github-readme-stats.vercel.app/api/pin/?username=mktcode&repo=the-magic-frog&show_owner=true)](https://github.com/mktcode/the-magic-frog) |
-| [![Crypto Workflows](https://github-readme-stats.vercel.app/api/pin/?username=crypto-workflows&repo=rewards-action&show_owner=true)](https://github.com/crypto-workflows) | [![Deepest Dungeon](https://github-readme-stats.vercel.app/api/pin/?username=mktcode&repo=deepest-dungeon)](https://github.com/mktcode/deepest-dungeon) |
+[![OpenQ](https://github-readme-stats.vercel.app/api/pin/?username=openqdev&repo=app&show_owner=true)](https://github.com/openqdev)
+[![The Magic Frog](https://github-readme-stats.vercel.app/api/pin/?username=mktcode&repo=the-magic-frog&show_owner=true)](https://github.com/mktcode/the-magic-frog)
+[![Crypto Workflows](https://github-readme-stats.vercel.app/api/pin/?username=crypto-workflows&repo=rewards-action&show_owner=true)](https://github.com/crypto-workflows)
+[![Deepest Dungeon](https://github-readme-stats.vercel.app/api/pin/?username=mktcode&repo=deepest-dungeon)](https://github.com/mktcode/deepest-dungeon)
 
 ## Support me:
 
