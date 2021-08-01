@@ -4,7 +4,7 @@ I've been a software developer for 15+ years now, worked as a freelancer and in 
 
 [![Mktcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mktcode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projects
+## My Projects
 
 [![OpenQ](https://github-readme-stats.vercel.app/api/pin/?username=openqdev&repo=app&show_owner=true)](https://github.com/openqdev)
 [![The Magic Frog](https://github-readme-stats.vercel.app/api/pin/?username=mktcode&repo=the-magic-frog&show_owner=true)](https://github.com/mktcode/the-magic-frog)
