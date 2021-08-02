@@ -1,4 +1,4 @@
-# About Me
+# About Myself
 
 I've been a software developer for 15+ years now, worked as a freelancer and in several companies but I prefer to work alone, on my own ideas/problems and by my own terms. I need to be creative in order to function. I'm currently trying to figure out how to survive as an open source developer/contributor.
 
